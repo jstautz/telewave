@@ -3,7 +3,7 @@ var ctx = canvas.getContext("2d");
 var cw = canvas.width;
 var ch = canvas.height;
 
-var binW = 45;
+var binW = 35;
 var recW = (binW/1000)*cw;
 var recW2 = 3*binW;
 var recW3 = 5*binW;
